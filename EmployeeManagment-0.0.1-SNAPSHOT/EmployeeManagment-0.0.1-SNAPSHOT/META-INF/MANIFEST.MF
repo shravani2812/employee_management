@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.8.4
+Built-By: Dheeraj Khandelwal
+Build-Jdk: 17.0.1
+Implementation-Title: EmployeeManagment
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://spring.io/projects/spring-boot/EmployeeManag
+ ment
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.example.EmployeeManagment.EmployeeManagment
+Spring-Boot-Version: 2.7.1
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Spring-Boot-Classpath-Index: BOOT-INF/classpath.idx
+Spring-Boot-Layers-Index: BOOT-INF/layers.idx
+
